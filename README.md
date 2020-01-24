@@ -29,13 +29,13 @@ Badminton is a racquet sport played using racquets to hit a shuttlecock(at some 
  
  ## References:
  
- *[Srikanth Kidambi](https://media.gettyimages.com/photos/indias-kidambi-srikanth-competes-in-the-mens-quarter-finals-during-picture-id945566708?s=612x612)
+ - [Srikanth Kidambi](https://media.gettyimages.com/photos/indias-kidambi-srikanth-competes-in-the-mens-quarter-finals-during-picture-id945566708?s=612x612)
  
- *[Okuhara Nozomi](https://img.kyodonews.net/english/public/images/posts/f36ab689287570348c09b4381646e665/photo_l.jpg)
+ - [Okuhara Nozomi](https://img.kyodonews.net/english/public/images/posts/f36ab689287570348c09b4381646e665/photo_l.jpg)
 
- *[More about Badminton](https://en.wikipedia.org/wiki/Badminton)
+ - [More about Badminton](https://en.wikipedia.org/wiki/Badminton)
  
- *[My Linkedin](https://www.linkedin.com/in/vineetha-yenugula-84a88b19a/)
+ - [My Linkedin](https://www.linkedin.com/in/vineetha-yenugula-84a88b19a/)
  
- *[My GitHub](https://github.com/vineetha1996)
+ - [My GitHub](https://github.com/vineetha1996)
 
