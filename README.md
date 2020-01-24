@@ -2,18 +2,17 @@
 ## My Interests:
 I am interested in Travelling,Trekking and playing games.I have been to many places in India and Bangkok.I am an active girl i love to play outdoor games like Badminton,TableTennis.
 ## Visited Places:
-### I have been to different places in India like,
+I have been to different places in India like,
      1. Goa
      2. Kerala
      3. Gokarna
      3. coorg
      4. Manali
-### Trekking places:
+## Trekking places:
      * Hampta pass 
      * Tadiandamol    
 ## About Badminton:
-### Badminton is a racquet sport played using racquets to hit a shuttlecock(at some places it is also called as birdie) across a net.This game can be played in different types like,
-[More about Badminton](https://en.wikipedia.org/wiki/Badminton)
+Badminton is a racquet sport played using racquets to hit a shuttlecock(at some places it is also called as birdie) across a net.This game can be played in different types like,
    - singles
    - doubles
    - Mixed doubles
@@ -22,4 +21,8 @@ I am interested in Travelling,Trekking and playing games.I have been to many pla
  ![Alt Srikanth](https://media.gettyimages.com/photos/indias-kidambi-srikanth-competes-in-the-mens-quarter-finals-during-picture-id945566708?s=612x612)
 ### Okuhara Nozomi, she is a women japanese Badminton player and the former World's No. 1 in BWF rankings for the women's singles.
  ![Alt Okuhara](https://img.kyodonews.net/english/public/images/posts/f36ab689287570348c09b4381646e665/photo_l.jpg)
+ ## References:
+ [More about Badminton](https://en.wikipedia.org/wiki/Badminton)
+ [My Linkedin](https://www.linkedin.com/in/vineetha-yenugula-84a88b19a/)
+ [My GitHub](https://github.com/vineetha1996)
 
