@@ -12,8 +12,8 @@ I have been to different places in India like,
 
 
 ## Trekking places:
-     * Hampta pass 
-     * Tadiandamol    
+   * Hampta pass 
+   * Tadiandamol    
 
 ## About Badminton:
 Badminton is a racquet sport played using racquets to hit a shuttlecock(at some places it is also called as birdie) across a net.This game can be played in different types like,
