@@ -16,9 +16,12 @@ I have been to different places in India like,
    
    ![Alt Hampta pass](https://www.indiahikes.com/wp-content/uploads/2018/07/Hampta-pass-Vignesh-5-min-walk-from-Jobra.jpg)
    
+   
    2.Tadiandamol  
    
    ![Alt Tadiandamol](https://www.wanderophile.com/wp-content/uploads/2019/12/SliderImage2.jpg)
+   
+   [This image is taken from](https://www.wanderophile.com/wp-content/uploads/2019/12/SliderImage2.jpg)
    
 
 ## About Badminton:
