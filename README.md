@@ -4,11 +4,12 @@ I am interested in Travelling,Trekking and playing games.I have been to many pla
 ## Visited Places:
 I have been to different places in India like,
 
-     1. Goa
-     2. Kerala
-     3. Gokarna
-     3. coorg
-     4. Manali
+  1. Goa
+  2. Kerala
+  3. Gokarna
+  4. coorg
+  5. Manali
+
 
 ## Trekking places:
      * Hampta pass 
