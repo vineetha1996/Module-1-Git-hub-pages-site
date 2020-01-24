@@ -1,6 +1,6 @@
 # Module 1: GitHub-Pages-Site
 ## My Interests:
-### I am interested in Travelling,Trekking and playing games.I have been to many places in India and Bangkok.I am an active girl i love to play outdoor games like Badminton,TableTennis.
+I am interested in Travelling,Trekking and playing games.I have been to many places in India and Bangkok.I am an active girl i love to play outdoor games like Badminton,TableTennis.
 ## Visited Places:
 ### I have been to different places in India like,
      1. Goa
